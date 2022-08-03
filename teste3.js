@@ -1,3 +1,8 @@
+// Desenvolver um programa que calcule:
+// - Menor valor de faturamento em determinado mês
+// - Maior valor de faturamento em determinado mês
+// - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal
+
 const dados=require('./dados.json');
 
 function menorValorFaturamento(){

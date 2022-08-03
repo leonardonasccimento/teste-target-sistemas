@@ -1,3 +1,4 @@
+// Desenvolver um programa para inverter um texto informado
 
 let texto='Palavra';
 

@@ -1,3 +1,4 @@
+// Desenvolver um programa que verifique se um número informado, pertence ou não pertence à sequência fibonacci
 
 let numero=5;
 

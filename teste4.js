@@ -1,3 +1,5 @@
+// Desenvolver um programa que calcule o percentual de cada estado, baseado nos respectivos lucros obtidos
+
 const dados2=require('./dados2.json');
 
 function percentualEstados(){

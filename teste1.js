@@ -1,3 +1,4 @@
+// Verificar o resultado da variável SOMA
 
 let INDICE = 13, SOMA = 0, K = 0;
 
